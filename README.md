@@ -5,8 +5,8 @@ This is an Android-based smart farming application that integrates **real-time s
 ---
 
 <p float="left">
-  <img src="https://github.com/adityasinghkushwah17/IOT_project_for_smart_farming/blob/b4075fa3536fe3b9b26b6009d4b28476cf68cfd0/photo_2025-05-22_14-44-45.jpg?raw=true" width="48%" />
-  <img src="https://github.com/adityasinghkushwah17/IOT_project_for_smart_farming/blob/b4075fa3536fe3b9b26b6009d4b28476cf68cfd0/photo_2025-05-22_14-44-38.jpg?raw=true" width="48%" />
+  <img src="https://github.com/adityasinghkushwah17/IOT_project_for_smart_farming/blob/b4075fa3536fe3b9b26b6009d4b28476cf68cfd0/photo_2025-05-22_14-44-45.jpg?raw=true" width="38%" />
+  <img src="https://github.com/adityasinghkushwah17/IOT_project_for_smart_farming/blob/b4075fa3536fe3b9b26b6009d4b28476cf68cfd0/photo_2025-05-22_14-44-38.jpg?raw=true" width="38%" />
 </p>
 
 
